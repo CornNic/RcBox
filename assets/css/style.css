@@ -64,17 +64,17 @@ h1, h2, h3, h4, h5, h6 {
   font-family: "Poppins", sans-serif;
 }
 #header h1 a, #header h1 a:hover {
-  color: #fff;
+  color: #e5ed01;
   line-height: 1;
   display: inline-block;
 }
 #header h2 {
   font-size: 24px;
   margin-top: 20px;
-  color: rgb(255, 255, 255);
+  color: #fff;
 }
 #header h2 span {
-  color: #fff;
+  color: #e5ed01;
   border-bottom: 2px solid #e5ed01;
   padding-bottom: 6px;
 }
